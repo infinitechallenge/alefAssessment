@@ -1,0 +1,3 @@
+Requirements:
+Python 3.6+ 
+Libraries: Pandas, NumPy, Scipy, Stats, matplotlib, seaborn
